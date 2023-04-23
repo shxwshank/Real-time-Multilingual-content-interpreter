@@ -6,9 +6,9 @@ based on the translation/meaning in the translated language.
 The recommender stores tf-idf matrices in vector form and then uses cosine similarities to recommend top 'k' songs to the user.
 
 For frontend  run:
-cd frontend
-npm install
-npm start
+cd frontend /n
+npm install /n
+npm start /n
 
 Dependencies for backend:
 pip3 install google-cloud-translate
