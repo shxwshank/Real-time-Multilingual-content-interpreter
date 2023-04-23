@@ -1,1 +1,0 @@
-# Real-time-Multilingual-content-interpreter
